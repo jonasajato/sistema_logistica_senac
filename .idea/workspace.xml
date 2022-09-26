@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb0acf40-0c23-4473-a8bd-38b0f772fd3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sistema_Logistica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Item/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Location/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Logistics/LogisticsSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Order/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Order/OrderPriority.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Order/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Payment/PaymentDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Payment/PaymentMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Payment/PaymentStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vehicle/VehicleStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/shashi/oodesign/Apptest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F97606Lhf17Gvwsj1JBxpQgXON" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "create.test.in.the.same.root": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="User" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="com.shashi.oodesign.Apptest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.shashi.oodesign.Apptest" />
+      <module name="Sistema_Logistica" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.shashi.oodesign.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.shashi.oodesign.Apptest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb0acf40-0c23-4473-a8bd-38b0f772fd3c" name="Changes" comment="" />
+      <created>1663892270358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663892270358</updated>
+    </task>
+    <servers />
+  </component>
+</project>
